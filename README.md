@@ -7,7 +7,7 @@ Material UI, Redux, ReactJS
 JWT, ExpressJS, NodeJS
 
 --Database--
-MongoDB
+MongoDB 
 
 --Editor--
 VS Code
